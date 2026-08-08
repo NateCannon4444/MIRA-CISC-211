@@ -1,3 +1,7 @@
+## Video link
+```txt
+https://sdccd.us-west-2.instructuremedia.com/embed/d219dd13-a3ad-4b37-ba6f-61b0f683490b
+```
 ## Flowchart for task 1
 ```txt
 1.) Start: Initialize the plaintext message buffer with "HELLO" and the secret key buffer with "world", setting the loop counter index register (esi) to 0 and message length (ecx) to 5.
